@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="title desc">
+  <title id="title">Prairie Gloss</title>
+  <desc id="desc">A gold sun setting over a horizon line above grass ticks</desc>
+  <defs>
+    <linearGradient id="sun" x1="30" y1="30" x2="90" y2="76" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f3c463"/>
+      <stop offset="1" stop-color="#c9922f"/>
+    </linearGradient>
+  </defs>
+  <path fill="#241d12" d="M12 12h96v96H12z"/>
+  <circle cx="60" cy="52" r="24" fill="url(#sun)"/>
+  <path fill="#241d12" d="M22 62h76v6H22z"/>
+  <path stroke="#f3c463" stroke-width="4" d="M18 68h84"/>
+  <path stroke="#5c7a4a" stroke-width="4" stroke-linecap="round" d="M30 92v-14M42 92v-18M54 92v-12M66 92v-19M78 92v-13M90 92v-16"/>
+</svg>
