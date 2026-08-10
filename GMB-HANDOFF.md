@@ -9,6 +9,8 @@ Launch a polished, phone-first mobile auto detailing website and Google Business
 - Canonical name: Prairie Gloss Mobile Detailing Katy Texas
 - Business type: mobile auto detailing
 - Primary market: Katy, Texas
+- Public phone: +1 956-300-4705
+- Street address: 5722 1st St, Katy, TX 77493
 - Phone: 956-300-4705
 - Primary conversion: phone calls
 - Domain: `prairiegloss.shop`
