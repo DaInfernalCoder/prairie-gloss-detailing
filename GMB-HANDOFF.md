@@ -13,7 +13,7 @@ Launch a polished, phone-first mobile auto detailing website and Google Business
 - Street address: 5722 1st St, Katy, TX 77493
 - Phone: 956-300-4705
 - Primary conversion: phone calls
-- Domain: `prairiegloss.shop`
+- Domain: `katycardetailing.shop`
 - Domain status: registered successfully on 2026-07-14; expires 2027-07-14
 - Registration settings: one year, high privacy, auto-renew off
 - Spaceship credentials: stored in macOS Keychain; never copy secrets into this file or repository
@@ -41,13 +41,13 @@ GMB asset pack is complete at `/Users/sumit/Documents/gmb/Prairie Gloss Mobile D
 **Remaining:** DNS nameserver change is still propagating at the `.shop` registry level
 (Vercel domain verification still shows the old GMO Registry nameservers as of last
 check). Nothing left to configure — just needs time. Once propagated, run:
-`vercel domains verify prairiegloss.shop` and `vercel domains verify www.prairiegloss.shop`,
-then `python3 scripts/check_live.py prairiegloss.shop "Prairie Gloss"` (and the `www.`
+`vercel domains verify katycardetailing.shop` and `vercel domains verify www.katycardetailing.shop`,
+then `python3 scripts/check_live.py katycardetailing.shop "Prairie Gloss"` (and the `www.`
 variant) from the make-gmb skill folder to confirm HTTPS and content over the real domain.
 
 ## Acceptance criteria
 
-- `prairiegloss.shop` registered with high privacy and auto-renew off.
+- `katycardetailing.shop` registered with high privacy and auto-renew off.
 - Permanent repository exists at `/Users/sumit/Documents/websites & apps/prairie-gloss-detailing`.
 - Site is responsive, accessible, honest, visually distinct from siblings, uses 956-300-4705 everywhere.
 - Local preflight and desktop/mobile browser checks pass with no broken assets, console errors, or overflow.
@@ -59,7 +59,7 @@ variant) from the make-gmb skill folder to confirm HTTPS and content over the re
 
 - [x] Confirm Katy, Texas and phone-first setup.
 - [x] Screen the Prairie Gloss name for local and same-category conflicts.
-- [x] Confirm `prairiegloss.shop` available and non-premium.
+- [x] Confirm `katycardetailing.shop` available and non-premium.
 - [x] Obtain explicit purchase approval.
 - [x] Register the domain with high privacy and auto-renew off.
 - [x] Verify asynchronous registration success and `autoRenew: false`.
@@ -75,5 +75,5 @@ variant) from the make-gmb skill folder to confirm HTTPS and content over the re
 ## Exact next action
 
 Wait for `.shop` nameserver propagation, then re-run `vercel domains verify` for both
-hosts and `scripts/check_live.py` to confirm HTTPS + content over prairiegloss.shop.
+hosts and `scripts/check_live.py` to confirm HTTPS + content over katycardetailing.shop.
 That's the only remaining step before this section can be deleted per CLAUDE.md.

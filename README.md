@@ -13,6 +13,6 @@ Open `http://localhost:4173`.
 ## Contact
 
 - Phone: 956-300-4705
-- Canonical domain: https://prairiegloss.shop
+- Canonical domain: https://katycardetailing.shop
 
 See `SOURCES.md` for launch photography licensing and `GMB-HANDOFF.md` for the current deployment state.
