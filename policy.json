@@ -1,0 +1,58 @@
+{
+  "config": {},
+  "domains": [
+    {
+      "name": "www.katycardetailing.shop",
+      "apexName": "katycardetailing.shop",
+      "redirect": "katycardetailing.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "katycardetailing.shop",
+      "apexName": "katycardetailing.shop",
+      "redirect": null,
+      "redirectStatusCode": null,
+      "verified": true
+    },
+    {
+      "name": "www.prairiegloss.shop",
+      "apexName": "prairiegloss.shop",
+      "redirect": "katycardetailing.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    },
+    {
+      "name": "prairiegloss.shop",
+      "apexName": "prairiegloss.shop",
+      "redirect": "katycardetailing.shop",
+      "redirectStatusCode": 308,
+      "verified": true
+    }
+  ],
+  "files": [
+    "/about/index.html",
+    "/assets/detail-foam.jpg",
+    "/assets/detail-interior.jpg",
+    "/assets/favicon.svg",
+    "/assets/hero-golden.jpg",
+    "/assets/logo.svg",
+    "/assets/process-truck.jpg",
+    "/contact/index.html",
+    "/index.html",
+    "/llms.txt",
+    "/portfolio-components.css",
+    "/portfolio-components.js",
+    "/privacy-policy/index.html",
+    "/robots.txt",
+    "/script.js",
+    "/seo-pages.css",
+    "/services/exterior-car-detailing/index.html",
+    "/services/headlight-restoration/index.html",
+    "/services/index.html",
+    "/services/interior-car-detailing/index.html",
+    "/services/mobile-car-wash/index.html",
+    "/sitemap.xml",
+    "/styles.css"
+  ]
+}
