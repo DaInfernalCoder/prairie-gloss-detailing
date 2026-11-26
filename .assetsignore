@@ -12,3 +12,4 @@ node_modules
 /GMB-HANDOFF.md
 /.vercelignore
 /scripts/preflight_site.py
+.github
